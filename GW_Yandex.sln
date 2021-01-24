@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GW_Yandex", "GW_Yandex\GW_Yandex.csproj", "{F5CD568E-471D-4D54-AA82-E9A4ECE8DA89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GWLibrary", "GWLibrary\GWLibrary.csproj", "{E43F95F4-4675-4A95-8C73-C3E9EB22F135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GW_YandexUtility", "GW_YandexUtility\GW_YandexUtility.csproj", "{7708867A-A003-45FD-BB98-B78FF2C1BDA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexMoneyHttpClient", "YandexMoneyHttpClient\YandexMoneyHttpClient.csproj", "{516D97A7-4E83-489D-AFBD-950F4C13EF05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5CD568E-471D-4D54-AA82-E9A4ECE8DA89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CD568E-471D-4D54-AA82-E9A4ECE8DA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CD568E-471D-4D54-AA82-E9A4ECE8DA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CD568E-471D-4D54-AA82-E9A4ECE8DA89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E43F95F4-4675-4A95-8C73-C3E9EB22F135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43F95F4-4675-4A95-8C73-C3E9EB22F135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43F95F4-4675-4A95-8C73-C3E9EB22F135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43F95F4-4675-4A95-8C73-C3E9EB22F135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7708867A-A003-45FD-BB98-B78FF2C1BDA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7708867A-A003-45FD-BB98-B78FF2C1BDA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7708867A-A003-45FD-BB98-B78FF2C1BDA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7708867A-A003-45FD-BB98-B78FF2C1BDA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{516D97A7-4E83-489D-AFBD-950F4C13EF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516D97A7-4E83-489D-AFBD-950F4C13EF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516D97A7-4E83-489D-AFBD-950F4C13EF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516D97A7-4E83-489D-AFBD-950F4C13EF05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C48EA1EF-94DE-4602-9962-AA2F62175930}
+	EndGlobalSection
+EndGlobal
